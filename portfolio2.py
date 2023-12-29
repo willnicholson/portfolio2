@@ -63,7 +63,7 @@ spoken_icons = {"English": "🇬🇧",
 #CHANGE BELOW
 spoken_data = {
     "English": "Fluent",
-    "Spanish": "Almost Fluent",
+    "Spanish": "Beginner",
 }
 leadership_data = {
     "Band Leadership": (["- Served as woodwind captain and drum major in final two years at Roswell"],"DrumMajorPicture.jpg"),
