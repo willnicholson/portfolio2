@@ -56,8 +56,8 @@ programming_icons = {
     "Python": "🐍",
     "SQL": "🔍",
 }
-spoken_icons = {"English": "🇬🇧",
-    "Spanish":"🇪🇸"
+spoken_icons = {"English": "",
+    "Spanish":""
 }
 
 #CHANGE BELOW
@@ -72,7 +72,7 @@ activity_data={
     "United Sound": ["- Taught special needs students how to play instruments", 
             "- Held a concert featuring the students playing pieces all together"],
     "Help a Hornet": ["- Help underpriveledged children by buying them presents for Christmas"],
-    "Veterinarian Volunteer": ["- Volunteered at PetVet Inc., a veterinary clinic in Cumming, GA",
+    "Veterinarian Volunteer": ["- Volunteered at PetVet Inc, a veterinary clinic in Cumming, GA",
             "- Helped spay and neuter stray cats and dogs and shadowed surgeon in clinic"]
 }
 #END OF IMPORTED INFO FILE
