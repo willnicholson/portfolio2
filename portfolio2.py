@@ -35,15 +35,15 @@ experience_data = {
     "Leader in Band": (["- Served on the Roswell High School Leadership team for 3 years",
                                                                           "- Became woodwind captain and drum major", "- Led band to first place finish for first time in 5 years"],"DrumMajorChampPicture.jpg"),
     "Proficient in Probability":(["- Got 6th place at the Georgia Tech International Probability Competition",
-                                                           "- Plans to become a TA in ISyE 2027"],"ProbabilityAchievementPicture.jpg"),
+                                                           "- Will become a TA in ISyE 2027 (Probability Class) in Fall 2024"],"ProbabilityAchievementPicture.jpg"),
     "Future Intern":(["- Plans to complete an internship this upcoming Summer of 2024"],"InternPicture.jpg")
 
 }
 
 projects_data = {
     "Personal Profile": "Created this personal profile while taking CS1301",
-    "Fantasy Football Pages": "Created info page on NFL receivers and a miniquiz on fantasy football from scratch",
-    "Fantasy Football Draft Guide Web App": "Created a Web App through Streamlit on a brief guide to how to draft based on draft position, draft strategy, and commitment to fantasy fooball",
+    "Fantasy Football Pages": "Created info page on NFL receivers and a miniquiz on fantasy football from scratch based on current data and analytics",
+    "Fantasy Football Draft Guide Web App": "Created a Web App through Streamlit on a brief guide to how to draft based on draft position and draft strategy, demonstrating basic use of analystics",
 }
 
 programming_data = {
