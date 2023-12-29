@@ -29,7 +29,7 @@ course_data = {
     "code":["CS 1301", "ISyE 2027", "ISyE 3030", "CS 2316"], 
     "names":["Intro to CS", "Probability with Applications", "Basic Statistical Methods", "Data Manipulation for Science and Industry"], 
     "semester_taken":["1st", "1st", "2nd", "2nd"],
-    "skills":["Fully competent in Python (Couldn't tell you what recursion is)", "Can model scenarios using probability functions (There are 6 sides to a die)", "Will know confidcence intervals (Still can't predict anything)", "Will learn SQL, software development, and more"],
+    "skills":["Fully competent in Python", "Can model scenarios using probability functions", "Will know confidcence intervals", "Will learn SQL, software development, and more"],
     }
 experience_data = {
     "Leader in Band": (["- Served on the Roswell High School Leadership team for 3 years",
@@ -63,7 +63,7 @@ spoken_icons = {"English": "🇬🇧",
 #CHANGE BELOW
 spoken_data = {
     "English": "Fluent",
-    "Spanish": "Beginner",
+    "Spanish": "Very Basic Level",
 }
 leadership_data = {
     "Band Leadership": (["- Served as woodwind captain and drum major in final two years at Roswell"],"DrumMajorPicture.jpg"),
