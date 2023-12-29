@@ -10,7 +10,7 @@ about_me = "I'm Will Nicholson. I am a first year Industrial Engineering major s
 #CHANGE BELOW (OPTIONAL)
 linkedin_image_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
 github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
-email_image_url = "https://logowik.com/content/uploads/513_email.jpg"
+email_image_url = "https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png"
 
 #CHANGE BELOW
 my_linkedin_url = "https://www.linkedin.com/in/william-nicholson-6190a62a2/"
