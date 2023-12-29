@@ -43,7 +43,7 @@ experience_data = {
 projects_data = {
     "Personal Profile": "Created this personal profile while taking CS1301",
     "Fantasy Football Pages": "Created info page on NFL receivers and a miniquiz on fantasy football from scratch based on current data and analytics",
-    "Fantasy Football Draft Guide Web App": "Created a Web App through Streamlit on a brief guide to how to draft based on draft position and draft strategy, demonstrating basic use of analystics",
+    "Fantasy Football Draft Guide Web App": "Created a Web App through Streamlit of a brief guide on how to draft based on draft position and draft strategy, demonstrating basic use of analystics",
 }
 
 programming_data = {
