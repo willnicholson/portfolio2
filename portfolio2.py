@@ -4,7 +4,7 @@ import pandas as pd
 
 #COPIED FROM INFO FILE
 profile_picture = "BenzProfilePicture.jpg"
-about_me = "I'm Will Nicholson. I am a first year Industrial Engineering major studying here at Georgia Tech. "
+about_me = "I'm Will Nicholson. I am a first year Industrial Engineering major studying here at Georgia Tech. I plan to graduate in three years and then pursue my masters in either analystics."
 
 
 #CHANGE BELOW (OPTIONAL)
@@ -22,14 +22,14 @@ education_data ={
     'Degree': 'Bachelor of Science in Industrial Engineering',
     'Institution': 'Georgia Institute of Technology',
     'Location': 'Atlanta, GA',
-    'Graduation Date': "Spring 26'",
+    'Graduation Date': "Spring 2026",
     'GPA': '4.0'
 }
 course_data = {
-    "code":["CS 1301", "ENGL 1102", "ISyE 2027", "ISyE 3030"], 
-    "names":["Intro to CS", "English Composition II", "Probability with Applications", "Basic Statistical Methods"], 
-    "semester_taken":["1st", "1st", "1st", "2nd"],
-    "skills":["Couldn't tell you what recursion is", "I can now understand English!", "There are 6 sides to a die", "Still can't predict the outcome of the election :("],
+    "code":["CS 1301", "ISyE 2027", "ISyE 3030", "CS 2316"], 
+    "names":["Intro to CS", "Probability with Applications", "Basic Statistical Methods", "Data Manipulation for Science and Industry"], 
+    "semester_taken":["1st", "1st", "2nd", "2nd"],
+    "skills":["Fully competent in Python (Couldn't tell you what recursion is)", "Can model scenarios using probability functions (There are 6 sides to a die)", "Will know confidcence intervals (Still can't predict anything)", "Will learn SQL, software development, and more"],
     }
 experience_data = {
     "Leader in Band": (["- Served on the Roswell High School Leadership team for 3 years",
