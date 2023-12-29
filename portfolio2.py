@@ -4,7 +4,7 @@ import pandas as pd
 
 #COPIED FROM INFO FILE
 profile_picture = "BenzProfilePicture.jpg"
-about_me = "I'm Will Nicholson. I am a first year Industrial Engineering major studying here at Georgia Tech. I plan to graduate in three years and then pursue my masters in either analystics."
+about_me = "I'm Will Nicholson. I am a first year Industrial Engineering major studying here at Georgia Tech. I plan to graduate in three years and then pursue my masters in analystics."
 
 
 #CHANGE BELOW (OPTIONAL)
